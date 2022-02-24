@@ -36,6 +36,7 @@ Hugepagesize:       2048 kB
 # git clone https://github.com/songweijia/CloudModeling
 # cd CloudModeling/CacheInspector
 # mkdir build
+# cd build
 # cmake ..
 # make -j
 ```
